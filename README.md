@@ -10,7 +10,7 @@ Hello, astraOS is an opensource Linux & Android based OS/Custom ROM made by #tea
 ## Links:
 - TikTok ( https://tiktok.com/@poweredbyastra )
 - Discord ( https://dsc.gg/astraos)
-- Telegram ( Coming Soon... )
+- Telegram ( https://t.me/poweredbyastra )
 - Website ( Coming Soon...)
 - YouTube ( https://www.youtube.com/@teamsakuraos ) (NEEDS UPDATE)
 
